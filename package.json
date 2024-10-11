@@ -22,7 +22,7 @@
     "@types/nprogress": "0.2.0",
     "@unocss/reset": "0.30.13",
     "@vitejs/plugin-vue": "2.3.2",
-    "critters": "0.0.16",
+    "critters": "0.0.25",
     "eslint": "8.14.0",
     "typescript": "4.6.4",
     "unocss": "0.30.13",
